@@ -27,8 +27,7 @@ How does process mining works ? [explore here](https://www.celonis.com/process-m
 
 What is task mining ? [Explore here](https://www.celonis.com/process-mining/how-does-process-mining-work/)
 
-download [this document](https://www.celonis.com/ultimate-guide/) to know more about how to
-
+download [this document](https://www.celonis.com/ultimate-guide/) to know more on the following points
   1. Learn all about the technology core of the Celonis EMS: Process Mining
 
   2. Gain an understanding of how it works and how it aids process improvement
@@ -42,6 +41,14 @@ download [this document](https://www.celonis.com/ultimate-guide/) to know more a
   6. Get a checklist of what to look for when purchasing a Process Mining tool
 
   7. Plan your own Process Mining journey with hands-on activities
+  
+  ## Solutions Provided by celonis 
+  
+  1. Solutions provided by systems 
+   1.Celonis for salesforce [learn more](https://www.celonis.com/solutions/systems/salesforce/)
+   2. celonis for SAP [learn more](https://www.celonis.com/solutions/systems/sap/)
+   3. Celonis for serviceNow [learn more](https://www.celonis.com/solutions/snap-for-servicenow/)
+   4. Celonis for UIPath [learn more](https://www.celonis.com/solutions/celonis-snap-for-uipath-orchestrator/)
 
 
 
