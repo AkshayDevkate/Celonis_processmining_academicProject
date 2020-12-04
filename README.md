@@ -29,19 +29,19 @@ What is task mining ? [Explore here](https://www.celonis.com/process-mining/how-
 
 download [this document](https://www.celonis.com/ultimate-guide/) to know more about how to
 
-  Learn all about the technology core of the Celonis EMS: Process Mining
+  1. Learn all about the technology core of the Celonis EMS: Process Mining
 
-  Gain an understanding of how it works and how it aids process improvement
+  2. Gain an understanding of how it works and how it aids process improvement
 
-  Learn the steps to a successful implementation
+  3. Learn the steps to a successful implementation
 
-  Discover real-life solutions and use cases
+  4. Discover real-life solutions and use cases
 
-  See what kinds of outcomes you can expect to achieve
+  5. See what kinds of outcomes you can expect to achieve
 
-  Get a checklist of what to look for when purchasing a Process Mining tool
+  6. Get a checklist of what to look for when purchasing a Process Mining tool
 
-Plan your own Process Mining journey with hands-on activities
+  7. Plan your own Process Mining journey with hands-on activities
 
 
 
