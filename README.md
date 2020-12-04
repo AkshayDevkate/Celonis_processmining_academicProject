@@ -81,6 +81,11 @@ download [this document](https://www.celonis.com/ultimate-guide/) to know more o
    4 Process Exellence [learn more](https://www.celonis.com/solutions/initiatives/process-excellence/)
    
    
+   
+   | Snap | Enterprie | Academic | Celonis for consulting | 
+   |--|--|--|--|
+   
+   
 
 
 
