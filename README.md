@@ -44,12 +44,43 @@ download [this document](https://www.celonis.com/ultimate-guide/) to know more o
   
   ## Solutions Provided by celonis 
   
-  1. Solutions provided by systems 
+  # 1. Solutions provided by systems 
   
    1.Celonis for salesforce [learn more](https://www.celonis.com/solutions/systems/salesforce/)
+   
    2. celonis for SAP [learn more](https://www.celonis.com/solutions/systems/sap/)
+   
    3. Celonis for serviceNow [learn more](https://www.celonis.com/solutions/snap-for-servicenow/)
+   
    4. Celonis for UIPath [learn more](https://www.celonis.com/solutions/celonis-snap-for-uipath-orchestrator/)
+   
+   # 2. Solutions provided based on roles 
+   
+   1. celonis solutions for customer service [learn more](https://www.celonis.com/solutions/roles/customer-service/)
+   
+   2. Celonis solutions for finance [learn more](https://www.celonis.com/solutions/finance/)
+   
+   3. celonis solutions for IT [learn more](https://www.celonis.com/solutions/initiatives/system-migration/)
+   
+   4. Celonis solutions for order management [learn more](https://www.celonis.com/solutions/roles/order-management/)
+   
+   5. Celonis solutions for procurement [learn more](https://www.celonis.com/solutions/roles/procurement/)
+   
+   6. Celonis solutions for production [learn more](https://www.celonis.com/solutions/roles/production/)
+   
+   7. Celonis solutions for supply chain [learn more](https://www.celonis.com/solutions/roles/supply-chain/)
+   
+   # 3. Solutions provided based on Initiative 
+   
+   1. Automation and RPA [learn more](https://www.celonis.com/solutions/initiatives/rpa-automation)
+   
+   2. Business process outsourcing [learn more](https://www.celonis.com/solutions/bpo/)
+   
+   3. IT system migration [learn more](https://www.celonis.com/solutions/initiatives/system-migration/)
+   
+   4 Process Exellence [learn more](https://www.celonis.com/solutions/initiatives/process-excellence/)
+   
+   
 
 
 
